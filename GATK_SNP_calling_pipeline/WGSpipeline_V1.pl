@@ -14,9 +14,9 @@ This is Whole Genome Sequencing Upstream analysis pipeline with resuming functio
 3. samtools (v1.9)
 4. sambamba (0.7.0)
 5. gatk (v4.1.2)
-								version 0.3
+								version 1.2
 								2019-11-21	
-								Bug contact:'wangtianpeng1994\@outlook.com'
+								Bug contact:'wangtianpeng19\@hotmail.com'
 
 USAGE
 
